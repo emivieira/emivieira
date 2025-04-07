@@ -1,4 +1,4 @@
-# 👋 Olá! I’m Emilaine
+# Olá! I’m Emilaine
 
 Welcome to my corner of the data multiverse — where numbers meet storytelling, queries are tested, logic does its best, and every null value has its reason. Probably.
 
