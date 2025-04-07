@@ -19,19 +19,19 @@ With a background in journalism, systems development, and an MBA in Data Science
 
 ---
 
-## 🗂 Selected Projects & Repositories
+## 🗂 Selected Repositories
 
 | Project | Description |
 |--------|-------------|
 | [`sql`](https://github.com/emivieira/sql) | A personal lab for SQL practice and philosophical reflections on `NULL`s |
 | [`python`](https://github.com/emivieira/python) | Mostly useful Python experiments — some work-related, some just for fun |
-| [`naosoudesp.com.br`](https://naosoudesp.com.br) | A travel & curiosity blog for people who ask too many questions at museums |
 
 ---
 
 ## 🪐 Come say hi
 
-- [LinkedIn](https://www.linkedin.com/in/emilainevieira)
+- [LinkedIn](https://www.linkedin.com/in/emilainevieira) — professional stuff, mostly
+- [naosoudesp.com.br](https://www.naosoudesp.com.br) — my travel blog for side quests, museum gift shops, and quirky history
 
 
 ---
