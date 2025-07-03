@@ -7,7 +7,7 @@ I'm a data and content specialist helping media and digital companies understand
 With a background in journalism, systems development, and an MBA in Data Science & Analytics, I collaborate with engineers, editors, product managers, and occasionally, reality itself (though results may vary).
 
 
-#### ✨ Besides data, curiosity, and stubbornness, I also rely on:
+#### ✨ Besides data and curiosity, I also rely on:
 
 - 📊 Deep experience in digital analytics and audience behavior
 - 🤝 The ability to bridge business, product, engineering, and newsroom teams (all while preventing another civil war)
@@ -23,8 +23,8 @@ With a background in journalism, systems development, and an MBA in Data Science
 
 | Project | Description |
 |--------|-------------|
-| [`sql`](https://github.com/emivieira/sql) | A personal lab for SQL practice and philosophical reflections on `NULL`s |
-| [`python`](https://github.com/emivieira/python) | Mostly useful Python experiments — some work-related, some just for fun |
+| [`sql`](https://github.com/emivieira/sql) | A personal lab for SQL practice |
+| [`python`](https://github.com/emivieira/python) | Mostly useful Python experiments - some work-related, some just for fun |
 
 ---
 
